@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+numpy
+tqdm
+argparse
+notebook
+keras
+matplotlib
