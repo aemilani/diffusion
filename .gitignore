@@ -156,7 +156,6 @@ Thumbs.db
 # Data directory
 data/
 notebooks/data
-notebooks/results
 
 # TODO file
 # TODO.md   UNCOMMENT ME!
